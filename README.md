@@ -7,10 +7,10 @@ This project designs and analyses a Strategic and HR Performance Dashboard for P
 
 Peloton operates in a highly competitive fitness-technology ecosystem and faces measurable structural pressure:
 
-- Paid fitness subscriptions declined 3.1% (3.07M → 2.98M) from 2023–2024
-- Paid app subscriptions declined 25.7% (0.83M → 0.61M) in the same period
-- Average monthly app churn reached 7.7%, exceeding the industry benchmark (5–7%)
-- Workforce reduced by 53% since 2022 (6,195 → 2,918 employees)
+- Paid fitness subscriptions declined 3.1% (3.07M to 2.98M) from 2023-2024
+- Paid app subscriptions declined 25.7% (0.83M to 0.61M) in the same period
+- Average monthly app churn reached 7.7%, exceeding the industry benchmark (5-7%)
+- Workforce reduced by 53% since 2022 (6,195 to 2,918 employees)
 - Net loss of $550M in FY2024 despite aggressive cost-cutting
 
 The absence of a unified, real-time performance monitoring system limits management’s ability to respond proactively. This project addresses that gap.
@@ -25,7 +25,7 @@ Two established frameworks were used to contextualise performance:
 
 # Dashboard Design
 ## Data Source 
-- Financial, HR and subscriber metrics extracted from Peloton Annual Reports (FY2022–FY2024). Data was cleaned and structured in Excel
+- Financial, HR and subscriber metrics extracted from Peloton Annual Reports (FY2022-FY2024). Data was cleaned and structured in Excel
 
 ## Tools
 - Tableau for dashboard development and visual analytics
@@ -41,16 +41,14 @@ The dashboard is organised into three analytical layers, each aligned to a criti
 
 - Paid Fitness and App subscription trends
 - Churn rates vs industry benchmarks
-- Subscription revenue, gross margin, and contribution margin
+- Subscription revenue, gross margin and contribution margin
 **Key Metrics:**
 - **Fitness churn:** 1.4% per month (within benchmark)
 - **App churn:** 7.7% per month (above benchmark)
 - **Subscription gross margin:** 67.8% (FY2024)
 - **Contribution margin:** 72% (FY2024)
 
-**Insight:**
-
-- Stable margins are masking a growing engagement and retention problem, particularly in app-based subscriptions.
+**Insight:** Stable margins are masking a growing engagement and retention problem, particularly in app-based subscriptions.
 
 ## 2. Workforce Stability and HR Efficiency
 
@@ -64,13 +62,11 @@ The dashboard is organised into three analytical layers, each aligned to a criti
 **Key Metrics:**
 
 - **Workforce reduction:** 53% since 2022
-- **Attrition rate:** 19% (FY2024) vs industry norm ≈10%
+- **Attrition rate:** 19% (FY2024) vs industry norm of 10%
 - **Administration cost per employee:** $223K (+45%)
 - **RandD spend per employee:** $10.4K (+79%)
 
-**Insight:**
-
-- Despite a 53% workforce reduction since 2022, administrative costs per employee have increased, indicating ineffective restructuring and HR misalignment.
+**Insight:** Despite a 53% workforce reduction since 2022, administrative costs per employee have increased, indicating ineffective restructuring and HR misalignment.
 
 ## 3. Financial Health and Liquidity
 
@@ -82,16 +78,14 @@ The dashboard is organised into three analytical layers, each aligned to a criti
 
 **Key Metrics:**
 
-- **Revenue decline:** -25% ($3.58B → $2.7B)
+- **Revenue decline:** -25% ($3.58B to $2.7B)
 - **Net loss:** -$550M (FY2024)
 - **Free cash flow:** -$86M (FY2024)
 - **Debt-to-equity ratio:** -5.2%
 - **Quick ratio:** 1.36
 - **Net profit margin:** -20.44%
 
-**Insight:**
-
-- Short-term liquidity remains adequate, but long-term solvency and profitability risks persist.
+**Insight:** Short-term liquidity remains adequate, but long-term solvency and profitability risks persist.
 
 # Key KPIs Included
 
