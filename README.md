@@ -35,7 +35,7 @@ Two established frameworks were used to contextualise performance:
 
 The dashboard is organised into three analytical layers, each aligned to a critical organisational challenge:
 
-## 1. Subscriber Performance & Engagement
+## 1. Subscriber Performance and Engagement
 
 **Tracks:**
 
@@ -59,20 +59,20 @@ The dashboard is organised into three analytical layers, each aligned to a criti
 - Headcount changes and layoffs
 - Attrition rate
 - Administration cost per employee
-- R&D spend per employee
+- RandD spend per employee
 
 **Key Metrics:**
 
 - **Workforce reduction:** 53% since 2022
 - **Attrition rate:** 19% (FY2024) vs industry norm ≈10%
 - **Administration cost per employee:** $223K (+45%)
-- **R&D spend per employee:** $10.4K (+79%)
+- **RandD spend per employee:** $10.4K (+79%)
 
 **Insight:**
 
 - Despite a 53% workforce reduction since 2022, administrative costs per employee have increased, indicating ineffective restructuring and HR misalignment.
 
-## 3. Financial Health & Liquidity
+## 3. Financial Health and Liquidity
 
 **Tracks:**
 
@@ -95,12 +95,12 @@ The dashboard is organised into three analytical layers, each aligned to a criti
 
 # Key KPIs Included
 
-- Subscription churn (fitness & app)
+- Subscription churn (fitness and app)
 - Subscription gross and contribution margins
 - Attrition rate
 - Employee layoffs
 - Administration cost per employee
-- R&D spend per employee
+- RandD spend per employee
 - Net cash from operating activities
 - Debt-to-equity ratio
 - Quick ratio
