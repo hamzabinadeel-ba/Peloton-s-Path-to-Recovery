@@ -29,7 +29,6 @@ Two established frameworks were used to contextualise performance:
 
 ## Tools
 - Tableau for dashboard development and visual analytics
-
 - Excel for data preparation and KPI construction
 
 # Dashboard Structure
@@ -41,11 +40,8 @@ The dashboard is organised into three analytical layers, each aligned to a criti
 **Tracks:**
 
 - Paid Fitness and App subscription trends
-
 - Churn rates vs industry benchmarks
-
 - Subscription revenue, gross margin, and contribution margin
-
 **Key Metrics:**
 - **Fitness churn:** 1.4% per month (within benchmark)
 - **App churn:** 7.7% per month (above benchmark)
@@ -61,11 +57,8 @@ The dashboard is organised into three analytical layers, each aligned to a criti
 **Tracks:**
 
 - Headcount changes and layoffs
-
 - Attrition rate
-
 - Administration cost per employee
-
 - R&D spend per employee
 
 **Key Metrics:**
@@ -84,9 +77,7 @@ The dashboard is organised into three analytical layers, each aligned to a criti
 **Tracks:**
 
 - Revenue, net loss and free cash flow
-
 - Debt-to-equity ratio
-
 - Quick ratio and working capital ratio
 
 **Key Metrics:**
@@ -105,25 +96,15 @@ The dashboard is organised into three analytical layers, each aligned to a criti
 # Key KPIs Included
 
 - Subscription churn (fitness & app)
-
 - Subscription gross and contribution margins
-
 - Attrition rate
-
 - Employee layoffs
-
 - Administration cost per employee
-
 - R&D spend per employee
-
 - Net cash from operating activities
-
 - Debt-to-equity ratio
-
 - Quick ratio
-
 - Working capital ratio
-
 - Net profit margin
 
 Each KPI is explicitly linked to strategic or HR decision relevance.
@@ -132,25 +113,19 @@ Each KPI is explicitly linked to strategic or HR decision relevance.
 ## 1. AI-Driven Personalised Content
 
 - Deploy ML-based content recommendation engine
-
 - **Target:** Reduce app churn from 7.7% to <5% by Q4 2026
-
 - Supported by scenario analysis and risk mitigation plans
 
 ## 2. Predictive HR Analytics
 
 - Implement models to flag at-risk employees
-
 - **Target:** Reduce attrition from 19% to industry benchmark of 10%
-
 - Ethical risks addressed using fairness and explainability tools
 
 ## 3. Zero-Based Budgeting (ZBB)
 
 - Enforce cost discipline across business units
-
 - **Target:** Achieve positive operating cash flow by Q1 2027
-
 - Balanced against strategic investment protection
 
 # User Guide
@@ -158,35 +133,24 @@ Each KPI is explicitly linked to strategic or HR decision relevance.
 The project includes a user guide detailing:
 
 - Dashboard navigation
-
 - KPI interpretation
-
 - Filters and tooltips
-
 - Stakeholder-specific use cases (CEO, HR Director, CFO, Strategy Lead)
 
 # Key Skills Demonstrated
 
 - Strategic and HR analytics
-
 - KPI design and performance monitoring
-
 - Executive dashboard development
-
 - Predictive and scenario thinking
-
 - Integration of finance, HR and strategy
-
 - Data-driven recommendation design
 
 # Who It Is For
 
 - Strategy and Business Analysts
-
 - HR Analytics professionals
-
 - Consulting and advisory roles
-
 - Senior decision-makers requiring performance dashboards
 
 # Key Takeaway
