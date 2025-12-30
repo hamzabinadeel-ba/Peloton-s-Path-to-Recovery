@@ -31,7 +31,7 @@ Two established frameworks were used to contextualise performance:
 - Financial, HR and subscriber metrics extracted from Peloton Annual Reports (FY2022–FY2024). Data was cleaned and structured in Excel
 
 ## Tools
--Tableau for dashboard development and visual analytics
+- Tableau for dashboard development and visual analytics
 
 - Excel for data preparation and KPI construction
 
