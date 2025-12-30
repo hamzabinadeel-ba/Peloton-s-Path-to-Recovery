@@ -5,15 +5,13 @@ This project designs and analyses a Strategic and HR Performance Dashboard for P
 
 # Business Context
 
-Peloton operates in the highly competitive fitness-technology ecosystem, facing pressure from:
+Peloton operates in a highly competitive fitness-technology ecosystem and faces measurable structural pressure:
 
-- Declining paid fitness and app subscriptions
-
-- Rising churn, especially in app-based memberships
-
-- Large-scale workforce reductions and high attrition
-
-- Persistent operating losses despite aggressive cost-cutting
+- Paid fitness subscriptions declined 3.1% (3.07M → 2.98M) from 2023–2024
+- Paid app subscriptions declined 25.7% (0.83M → 0.61M) in the same period
+- Average monthly app churn reached 7.7%, exceeding the industry benchmark (5–7%)
+- Workforce reduced by 53% since 2022 (6,195 → 2,918 employees)
+- Net loss of $550M in FY2024 despite aggressive cost-cutting
 
 The absence of a unified, real-time performance monitoring system limits management’s ability to respond proactively. This project addresses that gap.
 
@@ -22,9 +20,8 @@ The absence of a unified, real-time performance monitoring system limits managem
 
 Two established frameworks were used to contextualise performance:
 
-- **VRIO Analysis:** Assessed Peloton’s technology stack, content ecosystem, brand equity, and human capital to evaluate sustainability of competitive advantage.
-
-- **PESTEL Analysis:** Examined macro-environmental pressures including post-pandemic consumer behaviour, technology competition (Apple Fitness+), regulatory exposure, and ESG expectations.
+- **VRIO Analysis:** Evaluated Peloton’s proprietary technology stack (609 patents), content ecosystem (10,000+ classes), brand equity and human capital. The analysis found that strategic assets exist, but execution gaps prevent sustainable competitive advantage.
+- **PESTEL Analysis:** Examined macro-environmental pressures including 31.3% projected CAGR in connected fitness (2024-2030), 39% post-COVID return to in-person fitness and rising regulatory, ESG and legal exposure. The anlysis found that external growth opportunities exist, but Peloton is failing to capture them.
 
 # Dashboard Design
 ## Data Source 
@@ -49,6 +46,12 @@ The dashboard is organised into three analytical layers, each aligned to a criti
 
 - Subscription revenue, gross margin, and contribution margin
 
+**Key Metrics:**
+- **Fitness churn:** 1.4% per month (within benchmark)
+- **App churn:** 7.7% per month (above benchmark)
+- **Subscription gross margin:** 67.8% (FY2024)
+- **Contribution margin:** 72% (FY2024)
+
 **Insight:**
 
 - Stable margins are masking a growing engagement and retention problem, particularly in app-based subscriptions.
@@ -65,6 +68,13 @@ The dashboard is organised into three analytical layers, each aligned to a criti
 
 - R&D spend per employee
 
+**Key Metrics:**
+
+- **Workforce reduction:** 53% since 2022
+- **Attrition rate:** 19% (FY2024) vs industry norm ≈10%
+- **Administration cost per employee:** $223K (+45%)
+- **R&D spend per employee:** $10.4K (+79%)
+
 **Insight:**
 
 - Despite a 53% workforce reduction since 2022, administrative costs per employee have increased, indicating ineffective restructuring and HR misalignment.
@@ -78,6 +88,15 @@ The dashboard is organised into three analytical layers, each aligned to a criti
 - Debt-to-equity ratio
 
 - Quick ratio and working capital ratio
+
+**Key Metrics:**
+
+- **Revenue decline:** -25% ($3.58B → $2.7B)
+- **Net loss:** -$550M (FY2024)
+- **Free cash flow:** -$86M (FY2024)
+- **Debt-to-equity ratio:** -5.2%
+- **Quick ratio:** 1.36
+- **Net profit margin:** -20.44%
 
 **Insight:**
 
@@ -114,7 +133,7 @@ Each KPI is explicitly linked to strategic or HR decision relevance.
 
 - Deploy ML-based content recommendation engine
 
-- **Target:** Reduce app churn from 7.7% to <5%
+- **Target:** Reduce app churn from 7.7% to <5% by Q4 2026
 
 - Supported by scenario analysis and risk mitigation plans
 
@@ -122,7 +141,7 @@ Each KPI is explicitly linked to strategic or HR decision relevance.
 
 - Implement models to flag at-risk employees
 
-- **Target:** Reduce attrition from 19% to industry benchmark (≈10%)
+- **Target:** Reduce attrition from 19% to industry benchmark of 10%
 
 - Ethical risks addressed using fairness and explainability tools
 
@@ -130,7 +149,7 @@ Each KPI is explicitly linked to strategic or HR decision relevance.
 
 - Enforce cost discipline across business units
 
-- **Target:** Achieve positive operating cash flow
+- **Target:** Achieve positive operating cash flow by Q1 2027
 
 - Balanced against strategic investment protection
 
