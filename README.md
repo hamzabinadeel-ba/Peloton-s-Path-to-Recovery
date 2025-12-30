@@ -1,4 +1,4 @@
-# Peloton-s-Path-to-Recovery
+# Peloton's-Path-to-Recovery
 # Project Overview
 
 This project designs and analyses a Strategic and HR Performance Dashboard for Peloton, aimed at supporting C-suite decision-making during a period of declining subscriber engagement, workforce instability, and sustained financial losses. Using FY2022-FY2024 data, the project integrates strategy frameworks, HR analytics and financial KPIs into an interactive Tableau dashboard with predictive and diagnostic capability. The objective is to enable leadership to identify risks early, prioritise interventions and support recovery-oriented decisions.
